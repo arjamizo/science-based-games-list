@@ -555,6 +555,14 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * web (free of charge)
 * CC0 license: [https://github.com/ncase/polygons](https://github.com/ncase/polygons)
 
+#### Trust (Interactive version of prisoner's dilemma)
+
+* [ncase.me/trust](https://ncase.me/trust/)
+* trust in the society
+* agent-based simulation
+* web (free of charge)
+* CC0 license: [https://github.com/ncase/trust](https://github.com/ncase/trust)
+
 ### Humanities
 
 #### philo: socratic games
